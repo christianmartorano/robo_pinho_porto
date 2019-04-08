@@ -13,13 +13,13 @@ Este projeto foi desenvolvido em 2 linguagens o robo que faz a captura das infor
 ## Screenshots
 
 * **Tela Inicial** - *Desenvolvida em Windev*
-![alt text](https://ibb.co/Cz0jbCV)
+![alt text](https://i.ibb.co/kxcL4bq/robo-porto-pinho-jpg.png)
 
 * **Tela Exportacao dos Dados Capturados** - *Desenvolvida em Windev*
-![alt text](https://ibb.co/56k2jQ2)
+![alt text](https://i.ibb.co/rm3vpBv/robo-porto-pinho-exportacao.png)
 
 * **Tela Inicial do Console do Robo** - *Desenvolvida em Python*
-![alt text](https://ibb.co/swp9f6R)
+![alt text](https://i.ibb.co/rm3vpBv/robo-porto-pinho-exportacao.png)
 
 ## Autor
 
